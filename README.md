@@ -11,7 +11,7 @@ It provides a lot of usefull elements such as:
 ## Tools of the library
 
 - PrimitiveType => object that can rappresent any type of number or math function.
-  Ex : new PrimitiveType("3i") => 3i
+  /nEx : new PrimitiveType("3i") => 3i
        new PrimitiveType("3","-4") => 3-4i
        new PrimitiveType("sin") => Sin function
        new PrimitiveType("e") => Nepero's Costant
