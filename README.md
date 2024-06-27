@@ -1,5 +1,7 @@
 # TinyMath.Js
 
+##Description
+
 A simple JS library for Math stuff.
 
 It provides a lot of usefull elements such as: 
