@@ -1,6 +1,6 @@
 # TinyMath.Js
 
-##Description
+## Description
 
 A simple JS library for Math stuff.
 
