@@ -22,4 +22,5 @@ It provides a lot of usefull elements such as:
   - new ExpressionType("2+sin(180)") => 2
 
 - ConverterType => object that allow you to convert from a unit to another unit
-  
+
+  - new ConverterType("12","cm","dm") =>        1,2 dm
