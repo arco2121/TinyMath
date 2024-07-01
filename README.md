@@ -1,6 +1,6 @@
 # TinyMath.Js
 
-<img style="display:flex, justify-content:center" src="icon.png" width="320" height="320">
+<img style="display:flex, justify-content:center" src="icon.png" width="400" height="400">
 
 ## Description
 
