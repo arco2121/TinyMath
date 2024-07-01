@@ -1,6 +1,6 @@
 # TinyMath.Js
 
-<img style="display:flex, justify-content:center" src="icon.png" width="280" height="280">
+<img style="display:flex, justify-content:center" src="icon.png" width="320" height="320">
 
 ## Description
 
@@ -17,6 +17,7 @@ It provides a lot of usefull elements such as:
   - new PrimitiveType("3","-4") => 3-4i
   - new PrimitiveType("sin") => Sin function
   - new PrimitiveType("e") => Nepero's Costant
+- new PrimitiveType("3","x") => 3x
   
 - ExpressionType => object that rappresent an expression
   - new ExpressionType("2+sin(180)") => 2
@@ -24,3 +25,5 @@ It provides a lot of usefull elements such as:
 - ConverterType => object that allow you to convert from a unit to another unit
 
   - new ConverterType("12","cm","dm") =>        1,2 dm
+
+
