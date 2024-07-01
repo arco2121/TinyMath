@@ -1,5 +1,7 @@
 # TinyMath.Js
 
+<img src="icon.png" width="600" height="600">
+
 ## Description
 
 A simple JS library for Math stuff.
