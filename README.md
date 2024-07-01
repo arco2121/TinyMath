@@ -1,16 +1,14 @@
 # TinyMath.Js
 
-<img style="display:flex, justify-content:center" src="icon.png" width="300" height="300">
+<img style="display:flex, justify-content:center" src="icon.png" width="250" height="250">
 
 ## Description
-
-A simple JS library for Math stuff.
 
 It provides a lot of usefull elements such as: 
 - A rappresentation for real and complex number with arbitrary precision.
 - A built-in converter between different mesure units
 - An easy way to rappresent and parse easy and complex expressions
-
+- An easy way to rappresent and parse equations
 
 ## Tools of the library
 
