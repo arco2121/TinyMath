@@ -4,7 +4,7 @@
 
 ## Description
 
-It provides a lot of usefull elements such as: 
+A Javascript library that provides a lot of usefull elements such as: 
 - A rappresentation for real and complex number with arbitrary precision.
 - A built-in converter between different mesure units
 - An easy way to rappresent and parse easy and complex expressions
