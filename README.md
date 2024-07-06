@@ -1,6 +1,6 @@
 # TinyMath
 
-<img src="./TinyMath.png" style="width:50%,height:auto">
+<img src="./TinyMath.png" style="width:20%,height:auto">
 
 ## Description
 
